@@ -1,0 +1,22 @@
+{
+  "name": "sb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopher73/sb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christopher73/sb/issues"
+  },
+  "homepage": "https://github.com/christopher73/sb#readme",
+  "dependencies": {
+    "node-thermal-printer": "^4.1.0"
+  }
+}
